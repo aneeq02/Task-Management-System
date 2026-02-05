@@ -44,7 +44,7 @@ The goal of this project was to build a clean and responsive Kanban-style task b
 ![Register Page](./screenshots/register.png)
 ![Light Theme](./screenshots/Light.png)
 ![Dark Theme](./screenshots/Dark.png)
-![New Task Modal](./screenshots/New-Task.png)
+![New Task Modal](./screenshots/NewTask.png)
 
 
 ## Step 1: Clone / Open the Project
