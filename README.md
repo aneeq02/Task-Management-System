@@ -39,14 +39,12 @@ The goal of this project was to build a clean and responsive Kanban-style task b
 
 ## Screenshots
 
-You can add screenshots directly inside README files.
 
-```md
-![Login Page](./screenshots/login.png)
+![Login Page](./screenshots/Login.png)
 ![Register Page](./screenshots/register.png)
-![Light Theme](./screenshots/light.png)
-![Dark Theme](./screenshots/dark.png)
-![New Task Modal](./screenshots/new task.png)
+![Light Theme](./screenshots/Light.png)
+![Dark Theme](./screenshots/Dark.png)
+![New Task Modal](./screenshots/New-Task.png)
 
 
 ## Step 1: Clone / Open the Project
